@@ -1,5 +1,5 @@
 # Human-Activity-Recognition-ML
-This project provide opportunity to apply Machine Learning algorithms on human generated data to automatically detect human activities. The project is based on the collected and logged sensor data which include three activities such as: walking, jumping and drop and pickup object. All data from three activities were manually recorded and collected by phone in home-based environment. 
+This project provides opportunity to apply Machine Learning algorithms on human generated data to automatically detect human activities. The project is based on the collected and logged sensor data which include three activities such as: walking, jumping and drop and pickup object. All data from three activities were manually recorded and collected by phone in home-based environment. 
 # Framework Description
 The activity recognition steps are included: (a) the load acceleration, magnetic field, orientation and angular velocity data for all three activates collected from the smartphone, (b) the exploratory data analyse and visualisation steps, and (c) the classification algorithm. 
 # Collecting Data and Data Pre-Processing
